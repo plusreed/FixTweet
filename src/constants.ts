@@ -61,5 +61,6 @@ Allow: /owoembed
 Allow: /owoembed/
 Allow: /watch?v=dQw4w9WgXcQ
 Disallow: /doing-harm-to-others
-Disallow: /taking-over-the-world`
+Disallow: /taking-over-the-world`,
+  BOT_UA_REGEX: /bot|facebook|embed|got|firefox\/92|curl|wget|go-http|yahoo|generator|whatsapp|preview|link|proxy|vkshare|images|analyzer|index|crawl|spider/gi,
 };
